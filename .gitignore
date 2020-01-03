@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Virtual environment (For Python Django)
 venv/
+
+# Ignore readme.txt
+*readme.txt

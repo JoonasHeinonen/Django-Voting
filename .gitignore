@@ -354,3 +354,6 @@ venv/
 
 # Ignore readme.txt
 *readme.txt
+
+# Ignore .vscode folder and depencies
+.vscode/
